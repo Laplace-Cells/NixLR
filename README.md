@@ -1,2 +1,2 @@
 # .dotfiles
-My Personalized Arch Linux dotfiles and config files
+My Personalized NixOS dotfiles and config files
